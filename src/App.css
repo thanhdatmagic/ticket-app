@@ -1,0 +1,66 @@
+.slidebarul{
+  list-style:none;
+
+  margin-right:30px;
+}
+.slidebarlogo{
+  margin-bottom:100px
+}
+.slidebarli{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+color: #1E0D03;
+opacity: 0.6;
+margin-top:40px;
+}
+
+
+/* Home */
+.homecontent{ 
+  position: absolute;
+width: 800px;
+height: 963px;
+left: 321px;
+top: 85px;
+background: #FFFFFF;
+border-radius: 24px;
+}
+
+/* ManageTicket */
+.Manageticketcontent{ 
+  position: absolute;
+  width: 800px;
+  height: 963px;
+  left: 321px;
+  top: 85px;
+  background: #FFFFFF;
+  border-radius: 24px;
+}
+
+/* Setting */
+.Settingcontent{ 
+  position: absolute;
+  width: 800px;
+  height: 963px;
+  left: 321px;
+  top: 85px;
+  background: #FFFFFF;
+  border-radius: 24px;
+
+}
+
+/* Check */
+.Checkticketcontent{ 
+  position: absolute;
+  width: 800px;
+  height: 963px;
+  left: 321px;
+  top: 85px;
+  background: #FFFFFF;
+  border-radius: 24px;
+
+  
+}
